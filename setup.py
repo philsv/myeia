@@ -26,6 +26,6 @@ setuptools.setup(
         "Operating System :: Microsoft :: Windows",
         "Operating System :: Unix",
         "Operating System :: MacOS",
-        "License :: OSI Approved :: MIT",
+        "License :: OSI Approved :: MIT License",
     ],
 )
