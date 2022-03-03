@@ -37,7 +37,7 @@ eia = myeia.EIA("API_KEY")
 eia.search_by_category_id("1")
 ```
 
-* Optionally you can set series=True which will return all series IDs from category.
+* Optionally you can set series=True which will return series IDs from category.
 
 ```
 eia.search_by_category_id("20", series=True)
