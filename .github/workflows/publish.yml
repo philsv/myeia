@@ -26,5 +26,5 @@ jobs:
         TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
       run: |
         python setup.py build_ext --inplace
-        python setup.py sdist bdist_weel
+        python setup.py sdist bdist_wheel
         twine upload dist/*
