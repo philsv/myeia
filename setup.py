@@ -5,7 +5,7 @@ with open("README.md", "r") as ld:
 
 setuptools.setup(
     name="myeia",
-    version="0.1.0",
+    version="0.1.1",
     url="https://github.com/philsv/myeia",
     license="MIT",
     author="philsv",

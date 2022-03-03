@@ -20,9 +20,7 @@ jobs:
     python -m pip install --upgrade pip
     pip install setuptools wheel twine
     pip install -r requirements.txt
-  - name: Build package
-    run: python -m build
-  - name: Publish package
+  - name: Build and Publish package
     env:
       TWINE_USERNAME: ${{ secrets.PYPI_USERNAME }}
       TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
