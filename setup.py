@@ -12,7 +12,8 @@ setuptools.setup(
     author_email="frphsv@gmail.com",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    packages=["myeia"],
+    packages=setuptools.find_packages(),
+    py_modules=["eiapy"],
     include_package_data=True,
     install_requires=[
         "pandas",
