@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
-    py_modules=["eiapy"],
+    py_modules=["myeia"],
     include_package_data=True,
     install_requires=[
         "pandas",
