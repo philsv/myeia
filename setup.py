@@ -5,14 +5,14 @@ with open("README.md", "r") as ld:
 
 setuptools.setup(
     name="myeia",
-    version="0.1.2",
+    version="0.1.3",
     url="https://github.com/philsv/myeia",
     license="MIT",
     author="philsv",
     author_email="frphsv@gmail.com",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    packages=setuptools.find_packages(),
+    packages=["myeia"],
     include_package_data=True,
     install_requires=[
         "pandas",
