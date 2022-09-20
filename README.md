@@ -1,56 +1,88 @@
 # myeia
 
-**myeia** is a simple Python wrapper for the U.S. Energy Information Administration (EIA) API.
+myeia is a simple Python wrapper for the U.S. Energy Information Administration (EIA) APIv2. It is designed to be simple to use and to provide a consistent interface for accessing EIA data.
+
+# Installation
+
+```ini
+pip install myeia
+```
 
 # Requirements
 
 * pandas
-
-# Installation
-
-```
-pip install myeia
-```
+* requests
+* python-dotenv
 
 #  eia OPEN DATA Registration
 
 To obtain an API Key you need to register on the [EIA website](https://www.eia.gov/opendata/register.php).
 
-
 # eia API Query Browser
 
-To find all EIA Datasets visit [API Query Browser](https://www.eia.gov/opendata/qb.php)
+To find all EIA Datasets visit [API Dashboard](https://www.eia.gov/opendata/browser/).
 
-# Authentication
+# How to use
 
-```
-import myeia
+```python
+from myeia import API
 
-eia = myeia.EIA("API_KEY")
-```
-
-# Examples
-
-* search_by_category_id will return all related sub categories.
-
-```
-eia.search_by_category_id("1")
+eia = API()
 ```
 
-* Optionally you can set series=True which will return series IDs from category.
+By Default the EIA class will look for your API `EIA_TOKEN`. 
 
-```
-eia.search_by_category_id("20", series=True)
-```
+If you have registered for an API key you can set it in your `.env` file.
 
-* search_by_series_id will return category names and IDs a series is a member of.
 
-```
-eia.search_by_series_id("PET.RWTC.D")
+```ini
+EIA_TOKEN=
 ```
 
-* data_by_series_id will return a Timeseries Dataset from series ID.
+Lets look at an example of how to get the *EIA Natural Gas Futures*.
 
+```python
+df = eia.get_data(
+    route="natural-gas/pri/fut",
+    series="RNGC1",
+    frequency="daily",
+)
+
+df.head()
 ```
-eia.data_by_series_id("PET.RWTC.D")
+
+Output Example:
+```
+            Natural Gas Futures Contract 1 (Dollars per Million Btu)
+Date
+2022-09-13                                              8.284
+2022-09-12                                              8.249
+2022-09-09                                              7.996
+2022-09-08                                              7.915
+2022-09-07                                              7.842
+...
+```
+
+Lets look at another example the *Total OPEC Petroleum Supply* where the facet is available as `seriesId`. By Default it is set as `series` but we can define the facet as `seriesId`.
+
+```python
+df = eia.get_data(
+    route="steo",
+    series="PAPR_OPEC",
+    frequency="monthly",
+    facet="seriesId",
+)
+
+df.head()
+```
+
+ Output Example:
+```
+            Total OPEC Petroleum Supply
+Date
+2023-12-01                    34.517314
+2023-11-01                    34.440397
+2023-10-01                    34.376971
+2023-09-01                    34.416242
+2023-08-01                    34.451823
 ```

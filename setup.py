@@ -5,7 +5,7 @@ with open("README.md", "r") as ld:
 
 setuptools.setup(
     name="myeia",
-    version="0.1.3",
+    version="0.2.0",
     url="https://github.com/philsv/myeia",
     license="MIT",
     author="philsv",
@@ -15,15 +15,8 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     py_modules=["myeia"],
     include_package_data=True,
-    install_requires=[
-        "pandas",
-    ],
-    keywords=[
-        "eia",
-        "eia-api",
-        "open-data",
-        "python",
-    ],
+    install_requires=["pandas", "requests", "python-dotenv"],
+    keywords=["eia", "eia-api", "open-data", "python"],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
