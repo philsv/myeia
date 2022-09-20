@@ -36,7 +36,7 @@ If you have registered for an API key you can set it in your `.env` file.
 
 
 ```ini
-EIA_TOKEN=
+EIA_TOKEN=YOUR_TOKEN_HERE
 ```
 
 Lets look at an example of how to get the *EIA Natural Gas Futures*.
