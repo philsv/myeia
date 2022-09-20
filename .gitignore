@@ -56,3 +56,6 @@ venv.bak/
 .vscode
 *.code-workspace
 .history
+
+# Cache
+.dccache
