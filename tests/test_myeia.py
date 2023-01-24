@@ -1,9 +1,9 @@
 import pandas as pd
 
-from src import myeia
+from myeia.api import API
 
 
 def test_get_data():
-    eia = myeia.API()
+    eia = API()
     df = eia.get_data(route="natural-gas/pri/fut", series="RNGC1", frequency="daily")
     assert isinstance(df, pd.DataFrame)

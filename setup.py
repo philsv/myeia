@@ -1,6 +1,6 @@
 import setuptools
 
-from src.version import __version__
+from myeia.version import __version__
 
 with open("README.md", "r") as ld:
     long_description = ld.read()

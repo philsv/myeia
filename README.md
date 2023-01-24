@@ -25,7 +25,7 @@ To find all EIA Datasets visit [API Dashboard](https://www.eia.gov/opendata/brow
 # How to use
 
 ```python
-from myeia import API
+from myeia.api import API
 
 eia = API()
 ```
