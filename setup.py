@@ -8,8 +8,7 @@ with open("README.md", "r") as ld:
 setuptools.setup(
     name="myeia",
     version=__version__,
-    packages=['eia'],
-    packages=setuptools.find_packages(),
+    packages=["myeia"],
     include_package_data=True,
     install_requires=["pandas", "requests", "python-dotenv"],
     url="https://github.com/philsv/myeia",
