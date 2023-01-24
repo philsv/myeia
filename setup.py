@@ -1,11 +1,12 @@
 import setuptools
+from src.version import __version__
 
 with open("README.md", "r") as ld:
     long_description = ld.read()
 
 setuptools.setup(
     name="myeia",
-    version="0.2.0",
+    version=__version__,
     url="https://github.com/philsv/myeia",
     license="MIT",
     author="philsv",

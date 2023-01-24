@@ -6,9 +6,8 @@ from typing import Optional
 import pandas as pd
 import requests
 from dotenv import load_dotenv
-from pandas.core.common import SettingWithCopyWarning
 
-warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
+warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 load_dotenv()
 
 
@@ -37,9 +36,7 @@ class API:
             "Accept": "*/*",
         }
 
-        api_route = (
-            f"{route}/data/?api_key={self.token}&data[]=value&frequency={frequency}"
-        )
+        api_route = f"{route}/data/?api_key={self.token}&data[]=value&frequency={frequency}"
 
         series = f"&facets[{facet}][]={series}"
 
@@ -73,15 +70,4 @@ class API:
         df.rename(columns={df.columns[0]: "Date"}, inplace=True)
         df["Date"] = pd.to_datetime(df["Date"])
         df.set_index("Date", inplace=True)
-
         return df
-
-
-# if __name__ == "__main__":
-
-#     # Example
-#     eia = API()
-#     df = eia.get_data(
-#         route="steo", series="PAPR_OPEC", frequency="monthly", facet="seriesId"
-#     )
-#     print(df.head())
