@@ -1,4 +1,5 @@
 import setuptools
+
 from src.version import __version__
 
 with open("README.md", "r") as ld:
