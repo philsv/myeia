@@ -1,9 +1,11 @@
 import pandas as pd
+import pytest
 
 from myeia.api import API
 
 
-def test_get_data():
+@pytest.mark.parametrize("route,series,frequency,facet", [("natural-gas/pri/fut", "RNGC1", "daily", "series"), ("petroleum/move/pipe", "MD0MP_R10-R20_1", "monthly", "series")])
+def test_get_data(route, series, frequency, facet):
     eia = API()
-    df = eia.get_data(route="natural-gas/pri/fut", series="RNGC1", frequency="daily")
+    df = eia.get_data(route, series, frequency, facet)
     assert isinstance(df, pd.DataFrame)
