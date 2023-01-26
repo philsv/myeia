@@ -40,9 +40,12 @@ EIA_TOKEN=YOUR_TOKEN_HERE
 ```
 
 Lets look at an example of how to get the *EIA Natural Gas Futures*.
+You can use the simpler v1 API method where you only need to pass the `series_id` or you can use the newer v2 API method where you need to pass the `route`, `series`, and `frequency`.
 
 ```python
-df = eia.get_data(
+df = eia.get_series(series_id="NG.RNGC1.D")
+
+df = eia.get_series_via_route(
     route="natural-gas/pri/fut",
     series="RNGC1",
     frequency="daily",
@@ -66,7 +69,9 @@ Date
 Lets look at another example the *Total OPEC Petroleum Supply* where the facet is available as `seriesId`. By Default it is set as `series` but we can define the facet as `seriesId`.
 
 ```python
-df = eia.get_data(
+df = eia.get_series(series_id="STEO.PAPR_OPEC.M")
+
+df = eia.get_series_via_route(
     route="steo",
     series="PAPR_OPEC",
     frequency="monthly",
