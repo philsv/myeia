@@ -30,6 +30,7 @@ class API:
 
         Args:
             series_id (str): The series ID. For example, "NG.RNGC1.W".
+            new_name (str): A name you want to give the value column.
         Returns:
             pd.DataFrame: A DataFrame with the date and value columns.
         """
@@ -71,7 +72,7 @@ class API:
             series (str): The series ID. For example, "RNGC1".
             frequency (str): The frequency of the series. For example, "daily".
             facet (str): The facet of the series. For example, "series", "seriesId".
-            new_name (str): A name you want to give the series.
+            new_name (str): A name you want to give the value column.
         Returns:
             pd.DataFrame: A DataFrame with the date and value columns.
         """
