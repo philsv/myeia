@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 
-warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
+warnings.simplefilter(action="ignore", category=pd.errors.SettingWithCopyWarning)
 load_dotenv()
 
 
