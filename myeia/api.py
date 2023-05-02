@@ -35,11 +35,15 @@ class API:
         Returns data for a given series in the simpler APIv1 format.
 
         Args:
-            series_id (str): The series ID. For example, "NG.RNGC1.W".
-            new_name (str): A name you want to give the value column.
+            series_id (str): The series ID.
+            new_name (str): A name you want to give the value column. Defaults to "".
 
         Returns:
             pd.DataFrame: A DataFrame with the date and value columns.
+            
+        Examples:
+            >>> eia = API()
+            >>> eia.get_series("NG.RNGC1.W")
         """
         headers = {"Accept": "*/*"}
         url = f"{self.url}seriesid/{series_id}?api_key={self.token}"
@@ -67,14 +71,18 @@ class API:
         Returns data for a given series in the newer APIv2 format.
 
         Args:
-            route (str): The route to the series. For example, "natural-gas/pri/fut".
-            series (str): The series ID. For example, "RNGC1".
-            frequency (str): The frequency of the series. For example, "daily".
-            facet (str): The facet of the series. For example, "series", "seriesId".
-            new_name (str): A name you want to give the value column.
+            route (str): The route to the series.
+            series (str): The series ID.
+            frequency (str): The frequency of the series.
+            facet (str): The facet of the series. Defaults to "series".
+            new_name (str): A name you want to give the value column. Defaults to "".
 
         Returns:
             pd.DataFrame: A DataFrame with the date and value columns.
+            
+        Examples:
+            >>> eia = API()
+            >>> eia.get_series_via_route("natural-gas/pri/fut", "RNGC1", "daily", "series")
         """
         headers = {"Accept": "*/*"}
 
