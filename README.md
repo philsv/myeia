@@ -2,27 +2,27 @@
 
 myeia is a simple Python wrapper for the U.S. Energy Information Administration (EIA) APIv2. It is designed to be simple to use and to provide a consistent interface for accessing EIA data.
 
-# Installation
+## Installation
 
 ```ini
 pip install myeia
 ```
 
-# Requirements
+## Requirements
 
 * pandas
 * requests
 * python-dotenv
 
-#  eia OPEN DATA Registration
+## eia OPEN DATA Registration
 
 To obtain an API Key you need to register on the [EIA website](https://www.eia.gov/opendata/register.php).
 
-# eia API Query Browser
+## eia API Query Browser
 
 To find all EIA Datasets visit [API Dashboard](https://www.eia.gov/opendata/browser/).
 
-# How to use
+## How to use
 
 ```python
 from myeia.api import API
@@ -30,10 +30,9 @@ from myeia.api import API
 eia = API()
 ```
 
-By Default the EIA class will look for your API `EIA_TOKEN`. 
+By Default the EIA class will look for your API `EIA_TOKEN`.
 
 If you have registered for an API key you can set it in your `.env` file.
-
 
 ```ini
 EIA_TOKEN=YOUR_TOKEN_HERE
@@ -55,7 +54,8 @@ df.head()
 ```
 
 Output Example:
-```
+
+```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)
 Date
 2022-09-13                                              8.284
@@ -82,7 +82,8 @@ df.head()
 ```
 
  Output Example:
-```
+
+```ini
             Total OPEC Petroleum Supply
 Date
 2023-12-01                    34.517314
