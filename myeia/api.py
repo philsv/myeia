@@ -82,9 +82,9 @@ class API:
 
         Args:
             series_id (str): The series ID.
-            new_name (str, optional): A name you want to give the value column. Defaults to "".
-            start_date (str, optional): The start date of the series. Defaults to "1960-01-01".
-            end_date (str, optional): The end date of the series. Defaults to today's date (plus 50 years).
+            new_name (str, optional): A name you want to give the value column.
+            start_date (str, optional): The start date of the series.
+            end_date (str, optional): The end date of the series.
 
         Returns:
             pd.DataFrame: A DataFrame with the date and value columns.
@@ -129,9 +129,9 @@ class API:
             series (str, list[str]): List of series ID's or a single series ID.
             frequency (str): The frequency of the series.
             facet (str, optional): The facet of the series. Defaults to "series".
-            new_name (str, optional): A name you want to give the value column. Defaults to "".
-            start_date (str, optional): The start date of the series. Defaults to today's date (minus 60 years).
-            end_date (str, optional): The end date of the series. Defaults to today's date (plus 50 years).
+            new_name (str, optional): A name you want to give the value column.
+            start_date (str, optional): The start date of the series.
+            end_date (str, optional): The end date of the series.
 
         Returns:
             pd.DataFrame: A DataFrame with the date and value columns.
