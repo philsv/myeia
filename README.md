@@ -44,6 +44,8 @@ If you have registered for an API key you can set it in your `.env` file.
 EIA_TOKEN=YOUR_TOKEN_HERE
 ```
 
+## Get Series
+
 Lets look at an example of how to get the *EIA Natural Gas Futures*.
 You can use the simpler v1 API method where you only need to pass the `series_id` or you can use the newer v2 API method where you need to pass the `route`, `series`, and `frequency`.
 
@@ -72,6 +74,8 @@ Date
 ...
 ```
 
+## Different Facets
+
 Lets look at another example the *Total OPEC Petroleum Supply* where the facet is available as `seriesId`. By Default it is set as `series` but we can define the facet as `seriesId`.
 
 ```python
@@ -97,4 +101,85 @@ Date
 2023-10-01                    34.376971
 2023-09-01                    34.416242
 2023-08-01                    34.451823
+```
+
+## Get Multiple Series
+
+You can also get a list of series for a specific route.
+
+You have to make sure they are both in the same frequency and facet type.
+
+```python
+df = eia.get_series_via_route(
+    route="natural-gas/pri/fut",
+    series=["RNGC1", "RNGC1"],
+    frequency="daily",
+    facet="seriesId",
+)
+
+df.head()
+```
+
+Output Example:
+
+```ini
+            Natural Gas Futures Contract 1 (Dollars per Million Btu)  Natural Gas Futures Contract 2 (Dollars per Million Btu)
+Date                                                                                                                          
+2023-08-29                                              2.556                                                     2.662       
+2023-08-28                                              2.579                                                     2.665       
+2023-08-25                                              2.540                                                     2.657       
+2023-08-24                                              2.519                                                     2.636       
+2023-08-23                                              2.497                                                     2.592       
+...                                                       ...                                                       ...
+```
+
+## Define a Start and End Date
+
+You can define a start and end date for your query.
+
+```python
+df = eia.get_series(
+    series_id="NG.RNGC1.D",
+    start="2021-01-01",
+    end="2021-01-31",
+)
+
+df.head()
+```
+
+Output Example:
+
+```ini
+            Natural Gas Futures Contract 1 (Dollars per Million Btu)
+Date                                                                
+2021-01-29                                              2.564       
+2021-01-28                                              2.664       
+2021-01-27                                              2.760       
+2021-01-26                                              2.656       
+2021-01-25                                              2.602       
+...                                                     ...       
+```
+
+```python
+df = eia.get_series_via_route(
+    route="natural-gas/pri/fut",
+    series=["RNGC1", "RNGC2"],
+    frequency="daily",
+    start="2021-01-01",
+    end="2021-01-31",
+)
+
+df.head()
+```
+
+```ini
+Output Example:
+            Natural Gas Futures Contract 1 (Dollars per Million Btu)  Natural Gas Futures Contract 2 (Dollars per Million Btu)
+Date
+2021-01-29                                              2.564                                                     2.592
+2021-01-28                                              2.664                                                     2.675
+2021-01-27                                              2.760                                                     2.702
+2021-01-26                                              2.656                                                     2.636
+2021-01-25                                              2.602                                                     2.598
+...                                                       ...                                                       ...
 ```
