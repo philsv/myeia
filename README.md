@@ -172,8 +172,9 @@ df = eia.get_series_via_route(
 df.head()
 ```
 
-```ini
 Output Example:
+
+```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)  Natural Gas Futures Contract 2 (Dollars per Million Btu)
 Date
 2021-01-29                                              2.564                                                     2.592
