@@ -108,7 +108,8 @@ class API:
         df = format_time_series_data(df)
 
         start_date, end_date = get_date_range(start_date, end_date)
-        return df.loc[start_date:end_date]  # type: ignore       
+        mask = (df.index >= start_date) & (df.index <= end_date)  # To avoid slicing errors (FutureWarning: slicing on non-monotonic DatetimeIndexes with non-existing keys)
+        return df.loc[mask]
     
 
     def get_series_via_route(
