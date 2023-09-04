@@ -160,6 +160,8 @@ Date
 ...                                                     ...       
 ```
 
+This also works for the `get_series_via_route` method.
+
 ```python
 df = eia.get_series_via_route(
     route="natural-gas/pri/fut",
