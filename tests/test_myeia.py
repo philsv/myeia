@@ -26,9 +26,13 @@ def test_get_series(series_id, start_date, end_date):
     [
         ("natural-gas/pri/fut", "RNGC1", "daily", "series", None, None),
         ("natural-gas/pri/fut", ["RNGC1", "RNGC2"], "daily", "series", None, None),
-        ("natural-gas/pri/fut", ["RNGC1", "RNGC2"], "daily", "series", "2021-01-01", "2021-01-31"),
+        ("natural-gas/pri/fut", ["RNGC1", "RNGC2"], "daily", "series", "2021-01-01", "2021-11-31"),
         ("petroleum/stoc/wstk", "WCESTUS1", "weekly", "series", None, None),
         ("petroleum/move/pipe", "MD0MP_R10-R20_1", "monthly", "series", None, None),
+        ("petroleum/crd/crpdn", "MCRFPP51", "monthly", "series", None, None),
+        ("petroleum/crd/crpdn", "MCRFPP52", "monthly", "series", None, None),
+        ("petroleum/crd/crpdn", ["MCRFPP51", "MCRFPP52"], "monthly", "series", None, None),
+        ("petroleum/crd/crpdn", ["MCRFPP51", "MCRFPP52"], "monthly", "series", "2021-01-01", "2021-11-31"),
     ],
 )
 def test_get_series_via_route(route, series, frequency, facet, start_date, end_date):

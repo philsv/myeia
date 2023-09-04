@@ -94,7 +94,7 @@ class API:
             >>> eia.get_series("NG.RNGC1.W")
         """
         api_endpoint = f"seriesid/{series_id}?api_key={self.token}"
-        
+
         url = f"{self.base_url}{api_endpoint}"
         base_df = get_json_response(url, headers=self.header)
 
@@ -110,7 +110,6 @@ class API:
         start_date, end_date = get_date_range(start_date, end_date)
         mask = (df.index >= start_date) & (df.index <= end_date)  # To avoid slicing errors (FutureWarning: slicing on non-monotonic DatetimeIndexes with non-existing keys)
         return df.loc[mask]
-    
 
     def get_series_via_route(
         self,
@@ -145,7 +144,7 @@ class API:
         start_date, end_date = get_date_range(start_date, end_date)
 
         list_of_series = [series] if isinstance(series, str) else series
-        
+
         data = []
         sort_args = "&sort[0][column]=period&sort[0][direction]=desc"
 
@@ -154,6 +153,9 @@ class API:
             facet_args = f"&facets[{facet}][]={series}"
             url = f"{self.base_url}{api_endpoint}{facet_args}{sort_args}"
             base_df = get_json_response(url, headers=self.header)
+
+            if base_df.empty:
+                raise ValueError(f"Error getting data for series: {series}. Please check your request.")
 
             if not facet:
                 facet = "series"
