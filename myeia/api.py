@@ -1,7 +1,7 @@
 import os
 import warnings
 from dataclasses import dataclass, field
-from typing import Optional, Union
+from typing import Optional, Union, Tuple, List
 from datetime import datetime, timedelta
 
 import pandas as pd
@@ -45,7 +45,7 @@ def format_time_series_data(df: pd.DataFrame) -> pd.DataFrame:
 def get_date_range(
     start_date: Union[str, None] = None,
     end_date: Union[str, None] = None,
-) -> tuple[str, str]:
+) -> Tuple[str, str]:
     """
     Helper function to get the start and end date for a given series.
     """
@@ -114,7 +114,7 @@ class API:
     def get_series_via_route(
         self,
         route: str,
-        series: Union[str, list[str]],
+        series: Union[str, List[str]],
         frequency: str,
         facet: Union[str, None] = None,
         new_name: Union[str, None] = None,
