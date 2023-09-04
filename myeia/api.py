@@ -1,8 +1,8 @@
 import os
 import warnings
 from dataclasses import dataclass, field
-from typing import Optional, Union, Tuple, List
 from datetime import datetime, timedelta
+from typing import List, Optional, Tuple, Union
 
 import pandas as pd
 import requests
