@@ -73,7 +73,6 @@ class API:
     def get_series(
         self,
         series_id: str,
-        new_name: Union[str, None] = None,
         start_date: Union[str, None] = None,
         end_date: Union[str, None] = None,
     ) -> pd.DataFrame:
@@ -82,7 +81,6 @@ class API:
 
         Args:
             series_id (str): The series ID.
-            new_name (str, optional): A name you want to give the value column.
             start_date (str, optional): The start date of the series.
             end_date (str, optional): The end date of the series.
 
@@ -97,11 +95,7 @@ class API:
 
         url = f"{self.base_url}{api_endpoint}"
         base_df = get_json_response(url, headers=self.header)
-
-        if not new_name:
-            series_description = base_df["series-description"][0] if "series-description" in base_df.columns else series_id
-        else:
-            series_description = new_name
+        series_description = base_df["series-description"][0] if "series-description" in base_df.columns else series_id
 
         df = base_df[["period", "value"]]  # Keep only the date and value columns
         df.rename(columns={df.columns[0]: "Date", df.columns[1]: series_description}, inplace=True)
@@ -117,7 +111,6 @@ class API:
         series: Union[str, List[str]],
         frequency: str,
         facet: Union[str, None] = None,
-        new_name: Union[str, None] = None,
         start_date: Union[str, None] = None,
         end_date: Union[str, None] = None,
     ) -> pd.DataFrame:
@@ -129,7 +122,6 @@ class API:
             series (str, list[str]): List of series ID's or a single series ID.
             frequency (str): The frequency of the series.
             facet (str, optional): The facet of the series. Defaults to "series".
-            new_name (str, optional): A name you want to give the value column.
             start_date (str, optional): The start date of the series.
             end_date (str, optional): The end date of the series.
 
@@ -138,12 +130,15 @@ class API:
 
         Examples:
             >>> eia = API()
-            >>> eia.get_series_via_route("natural-gas/pri/fut", "RNGC1", "daily", "series")
+            >>> eia.get_series_via_route("natural-gas/pri/fut", "RNGC1", "daily")
             >>> eia.get_series_via_route("natural-gas/pri/fut", ["RNGC1", "RNGC2"], "daily", "series")
         """
         start_date, end_date = get_date_range(start_date, end_date)
 
         list_of_series = [series] if isinstance(series, str) else series
+        
+        if not facet:
+            facet = "series"
 
         data = []
         sort_args = "&sort[0][column]=period&sort[0][direction]=desc"
@@ -157,20 +152,13 @@ class API:
             if base_df.empty:
                 raise ValueError(f"Error getting data for series: {series}. Please check your request.")
 
-            if not facet:
-                facet = "series"
-
-            if not new_name:
-                new_name = ""
-
             if facet == "series":
                 df = base_df[["period", "value", "series-description", "series"]]
             elif facet == "seriesId":
                 df = base_df[["period", "value", "seriesDescription", "seriesId"]]
 
             df.reset_index(drop=True, inplace=True)
-            name = new_name if new_name != "" else df[df.columns[2]][0]
-            df.rename(columns={df.columns[1]: name}, inplace=True)
+            df.rename(columns={df.columns[1]: df[df.columns[2]][0]}, inplace=True)
             df = df.iloc[:, :2]  # Keep only the date and value columns
             df.rename(columns={df.columns[0]: "Date"}, inplace=True)
             df = format_time_series_data(df)
