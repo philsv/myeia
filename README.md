@@ -36,6 +36,13 @@ from myeia.api import API
 eia = API()
 ```
 
+## Prerequisites
+
+```bash
+# Create your personal .env file
+cp .env.example .env
+```
+
 By Default the EIA class will look for your API `EIA_TOKEN`.
 
 If you have registered for an API key you can set it in your `.env` file.
