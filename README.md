@@ -39,7 +39,7 @@ eia = API()
 ## Prerequisites
 
 ```bash
-# Create your personal .env file
+# Create your personal .env file in your projects root directory
 touch .env
 ```
 
