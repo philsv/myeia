@@ -40,7 +40,7 @@ eia = API()
 
 ```bash
 # Create your personal .env file
-cp .env.example .env
+touch .env
 ```
 
 By Default the EIA class will look for your API `EIA_TOKEN`.
