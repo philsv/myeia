@@ -65,8 +65,11 @@ class API:
     Documentation:
         https://www.eia.gov/opendata/documentation.php
     """
+    def __init__(self, token):
+        self.token: Optional[str] = token
 
-    token: Optional[str] = os.getenv("EIA_TOKEN")  # Get API token from .env file
+        #token: Optional[str] = os.getenv("EIA_TOKEN") 
+    
     base_url: str = "https://api.eia.gov/v2/"
     header: dict = field(default_factory=lambda: {"Accept": "*/*"})
 
