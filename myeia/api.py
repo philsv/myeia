@@ -1,3 +1,4 @@
+import logging
 import os
 import warnings
 from dataclasses import dataclass, field
@@ -7,6 +8,7 @@ from typing import List, Optional, Tuple, Union
 import pandas as pd
 import requests
 from dotenv import load_dotenv
+from requests.exceptions import JSONDecodeError
 
 try:
     from pandas.errors import SettingWithCopyWarning
@@ -17,6 +19,11 @@ warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
 
 load_dotenv()
 
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(message)s", datefmt="%d-%b-%y %H:%M:%S"
+)
+
+
 
 def get_json_response(url: str, headers: dict) -> pd.DataFrame:
     """
@@ -24,7 +31,11 @@ def get_json_response(url: str, headers: dict) -> pd.DataFrame:
     """
     response = requests.get(url, headers=headers)
     response.raise_for_status()
-    json_response = response.json()
+    try:
+        json_response = response.json()
+    except JSONDecodeError as e:
+        logging.error(f"Response: {response.text}")
+        raise ValueError(f"Error decoding JSON response ({e}). Data might be incomplete or missing. Chunking your request might help.") from e
     return pd.DataFrame(json_response["response"]["data"])
 
 
@@ -154,8 +165,8 @@ class API:
 
             if facet == "series":
                 df = base_df[["period", "value", "series-description", "series"]]
-            elif facet == "seriesId":
-                df = base_df[["period", "value", "seriesDescription", "seriesId"]]
+            else:
+                df = base_df[["period", "value", "seriesDescription", facet]]
 
             df.reset_index(drop=True, inplace=True)
             df.rename(columns={df.columns[1]: df[df.columns[2]][0]}, inplace=True)

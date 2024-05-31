@@ -33,6 +33,7 @@ def test_get_series(series_id, start_date, end_date):
         ("petroleum/crd/crpdn", "MCRFPP52", "monthly", "series", None, None),
         ("petroleum/crd/crpdn", ["MCRFPP51", "MCRFPP52"], "monthly", "series", None, None),
         ("petroleum/crd/crpdn", ["MCRFPP51", "MCRFPP52"], "monthly", "series", "2021-01-01", "2021-11-31"),
+        ("total-energy", "PATWPUS", "monthly", "msn", "2020-01-01", None),
     ],
 )
 def test_get_series_via_route(route, series, frequency, facet, start_date, end_date):
