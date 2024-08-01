@@ -10,7 +10,7 @@ setuptools.setup(
     version=__version__,
     packages=["myeia"],
     include_package_data=True,
-    install_requires=["pandas", "requests", "python-dotenv"],
+    install_requires=["backoff", "pandas", "requests", "python-dotenv"],
     url="https://github.com/philsv/myeia",
     license="MIT",
     author="philsv",
