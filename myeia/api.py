@@ -45,9 +45,7 @@ class API:
         url: str,
         headers: dict,
     ) -> pd.DataFrame:
-        """
-        Helper function to get the response from the EIA API and return it as a dataframe.
-        """
+        """Helper function to get the response from the EIA API and return it as a dataframe."""
         time.sleep(0.25)
         response = requests.get(url, headers=headers)
         response.raise_for_status()
@@ -58,9 +56,7 @@ class API:
         self,
         df: pd.DataFrame,
     ) -> pd.DataFrame:
-        """
-        Helper function to format date.
-        """
+        """Helper function to format date."""
         if "period" in df.columns:
             df = df.rename(columns={"period": "Date"})
             df = df.set_index("Date")
@@ -84,7 +80,7 @@ class API:
 
         Args:
             series_id (str): The series ID.
-            
+
             data_identifier (str, optional): The data identifier. Defaults to "value".
             start_date (str, optional): The start date of the series.
             end_date (str, optional): The end date of the series.
@@ -94,21 +90,20 @@ class API:
             >>> eia.get_series("NG.RNGC1.W")
         """
         api_endpoint = f"seriesid/{series_id}?api_key={self.token}"
-
-        if start_date and end_date:
-            api_endpoint += f"&start={start_date}&end={end_date}"
-
         url = f"{self.base_url}{api_endpoint}"
         df = self.get_response(url, self.header)
         df = self.format_date(df)
+
+        # Filter the DataFrame by the specified date range
+        df = df[(df.index >= start_date) & (df.index <= end_date)]
+
         df = df.sort_index(ascending=False)
         df[data_identifier] = df[data_identifier].astype(float)
-        
+
         for col in df.columns:
             if "name" in col.lower() or "description" in col.lower():
                 df = df.rename(columns={data_identifier: df[col][0]})
                 df = df[df[col][0]].to_frame()
-        
         return df
 
     def get_series_via_route(
@@ -130,7 +125,7 @@ class API:
             route (str): The route to the series.
             series (str, list): The series.
             frequency (str): The frequency of the series.
-            
+
             facet (str, list, optional): The facet of the series. Defaults to "series".
             rename_to (str, optional): The rename of the series. Defaults to "value".
             start_date (str, optional): The start date of the series. Defaults to str(date.today() - relativedelta(months=2)).
@@ -148,7 +143,7 @@ class API:
 
         if start_date and end_date:
             base_api_endpoint += f"&start={start_date}&end={end_date}"
-            
+
         # Filter by multiple facets
         if isinstance(facet, list) and isinstance(series, list):
             for f, s in zip(facet, series):
@@ -161,7 +156,10 @@ class API:
                 f"Ensure that facet and series are of the same type (either str or list). Received facet: {facet} and series: {series}."
             )
 
-        api_endpoint = base_api_endpoint + f"&sort[0][column]=period&sort[0][direction]=desc&offset={offset}&length={limit}"
+        api_endpoint = (
+            base_api_endpoint
+            + f"&sort[0][column]=period&sort[0][direction]=desc&offset={offset}&length={limit}"
+        )
         url = f"{self.base_url}{api_endpoint}"
 
         df = self.get_response(url, self.header)
@@ -174,7 +172,7 @@ class API:
         df = self.format_date(df)
         df = df.sort_index(ascending=False)
         df[data_identifier] = df[data_identifier].astype(float)
-        
+
         if isinstance(facet, str) and isinstance(series, str):
             for col in df.columns:
                 if "name" in col.lower() or "description" in col.lower():
@@ -188,5 +186,4 @@ class API:
                     facet.append(df[col][0])
                     df = df[facet]
                     break
- 
         return df
