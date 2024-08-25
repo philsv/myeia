@@ -15,6 +15,7 @@ setuptools.setup(
     license="MIT",
     author="philsv",
     author_email="frphsv@gmail.com",
+    description="Python Wrapper for the U.S. Energy Information Administration (EIA) APIv2.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     keywords=["eia", "eia-api", "open-data", "python"],
