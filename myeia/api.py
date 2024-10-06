@@ -105,10 +105,16 @@ class API:
         df = df.sort_index(ascending=False)
         df[data_identifier] = df[data_identifier].astype(float)
 
+        # Filtering the DataFrame by the specified date range can result in an empty DataFrame
+        if df.empty:
+            return df
+
         for col in df.columns:
             if "name" in col.lower() or "description" in col.lower():
                 df = df.rename(columns={data_identifier: df[col][0]})
                 df = df[df[col][0]].to_frame()
+                break
+
         return df
 
     def get_series_via_route(
