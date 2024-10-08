@@ -1,7 +1,7 @@
 import pandas as pd
 import pytest
 
-from myeia.api import API
+from myeia import API
 
 eia = API()
 
@@ -9,15 +9,16 @@ eia = API()
 @pytest.mark.parametrize(
     "series_id, start_date, end_date",
     [
-        ("NG.RNGC1.D", "2024-01-01", "2024-02-01"),
-        ("PET.WCESTUS1.W", "2024-01-01", "2024-02-01"),
-        ("INTL.29-12-HKG-BKWH.A", "2024-01-01", "2024-02-01"),
+        ("NG.RNGC1.D", "2020-01-01", "2024-02-01"),
+        ("PET.WCESTUS1.W", "2020-01-01", "2024-02-01"),
+        ("INTL.29-12-HKG-BKWH.A", "2020-01-01", "2024-02-01"),
         ("STEO.PATC_WORLD.M", "2024-01-01", "2024-02-01"),
     ],
 )
 def test_get_series(series_id, start_date, end_date):
     """Test get_series method."""
     df = eia.get_series(series_id, start_date=start_date, end_date=end_date)
+    assert not df.empty
     assert isinstance(df, pd.DataFrame)
 
 
@@ -35,4 +36,5 @@ def test_get_series(series_id, start_date, end_date):
 def test_get_series_via_route(route, series, frequency, facet):
     """Test get_series_via_route method."""
     df = eia.get_series_via_route(route, series, frequency, facet)
+    assert not df.empty
     assert isinstance(df, pd.DataFrame)

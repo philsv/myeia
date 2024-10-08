@@ -1,11 +1,11 @@
 import logging
 import os
 import time
-import warnings
 from datetime import date
 from typing import Optional, Union
 
 import backoff
+import numpy as np
 import pandas as pd
 import requests
 from dateutil.relativedelta import relativedelta
@@ -40,7 +40,7 @@ class API:
         max_tries=10,
         raise_on_giveup=True,
         jitter=backoff.full_jitter,
-        giveup=lambda e: e.response.status_code == 403,
+        giveup=lambda e: hasattr(e, "response") and e.response.status_code == 403,
     )
     def get_response(
         self,
@@ -57,8 +57,8 @@ class API:
         json_response = response.json()
         return pd.DataFrame(json_response["response"]["data"])
 
+    @staticmethod
     def format_date(
-        self,
         df: pd.DataFrame,
     ) -> pd.DataFrame:
         """Helper function to format date."""
@@ -103,18 +103,23 @@ class API:
         df = df[(df.index >= start_date) & (df.index <= end_date)]
 
         df = df.sort_index(ascending=False)
+
+        if "NA" in df[data_identifier].values:
+            df[data_identifier] = df[data_identifier].replace("NA", np.nan)
+
         df[data_identifier] = df[data_identifier].astype(float)
 
         # Filtering the DataFrame by the specified date range can result in an empty DataFrame
         if df.empty:
             return df
 
+        descriptions = ["series-description", "seriesDescription", "productName"]
+
         for col in df.columns:
-            if "name" in col.lower() or "description" in col.lower():
+            if col in descriptions:
                 df = df.rename(columns={data_identifier: df[col][0]})
                 df = df[df[col][0]].to_frame()
                 break
-
         return df
 
     def get_series_via_route(
@@ -182,17 +187,23 @@ class API:
 
         df = self.format_date(df)
         df = df.sort_index(ascending=False)
+
+        if "NA" in df[data_identifier].values:
+            df[data_identifier] = df[data_identifier].replace("NA", np.nan)
+
         df[data_identifier] = df[data_identifier].astype(float)
+
+        descriptions = ["series-description", "seriesDescription", "productName"]
 
         if isinstance(facet, str) and isinstance(series, str):
             for col in df.columns:
-                if "name" in col.lower() or "description" in col.lower():
+                if col in descriptions:
                     df = df.rename(columns={data_identifier: df[col][0]})
                     df = df[df[col][0]].to_frame()
                     break
         elif isinstance(facet, list) and isinstance(series, list):
             for col in df.columns:
-                if "name" in col.lower() or "description" in col.lower():
+                if col in descriptions:
                     df = df.rename(columns={data_identifier: df[col][0]})
                     facet.append(df[col][0])
                     df = df[facet]

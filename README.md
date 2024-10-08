@@ -33,7 +33,7 @@ To find all EIA Datasets visit [API Dashboard](https://www.eia.gov/opendata/brow
 ## How to use
 
 ```python
-from myeia.api import API
+from myeia import API
 
 eia = API()
 ```
@@ -133,7 +133,7 @@ Output Example:
 
 ```ini
            countryRegionId productId  Crude oil, NGPL, and other liquids
-Date                                                                  
+Date                                                                
 2024-03-01             ARE        55                         4132.394334
 2024-02-01             ARE        55                         4132.394334
 2024-01-01             ARE        55                         4142.394334
@@ -165,12 +165,12 @@ Output Example:
 
 ```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)  Natural Gas Futures Contract 2 (Dollars per Million Btu)
-Date                                                                                                                        
-2023-08-29                                              2.556                                                     2.662     
-2023-08-28                                              2.579                                                     2.665     
-2023-08-25                                              2.540                                                     2.657     
-2023-08-24                                              2.519                                                     2.636     
-2023-08-23                                              2.497                                                     2.592     
+Date                                                                                                                      
+2023-08-29                                              2.556                                                     2.662   
+2023-08-28                                              2.579                                                     2.665   
+2023-08-25                                              2.540                                                     2.657   
+2023-08-24                                              2.519                                                     2.636   
+2023-08-23                                              2.497                                                     2.592   
 ...                                                       ...                                                       ...
 ```
 
@@ -192,13 +192,13 @@ Output Example:
 
 ```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)
-Date                                                              
-2021-01-29                                              2.564     
-2021-01-28                                              2.664     
-2021-01-27                                              2.760     
-2021-01-26                                              2.656     
-2021-01-25                                              2.602     
-...                                                       ...     
+Date                                                            
+2021-01-29                                              2.564   
+2021-01-28                                              2.664   
+2021-01-27                                              2.760   
+2021-01-26                                              2.656   
+2021-01-25                                              2.602   
+...                                                       ...   
 ```
 
 This also works for the `get_series_via_route` method.
