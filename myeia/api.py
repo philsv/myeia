@@ -1,6 +1,7 @@
 import logging
 import os
 import time
+import warnings
 from datetime import date
 from typing import Optional, Union
 
@@ -39,6 +40,7 @@ class API:
         max_tries=10,
         raise_on_giveup=True,
         jitter=backoff.full_jitter,
+        giveup=lambda e: e.response.status_code == 403,
     )
     def get_response(
         self,
@@ -48,6 +50,9 @@ class API:
         """Helper function to get the response from the EIA API and return it as a dataframe."""
         time.sleep(0.25)
         response = requests.get(url, headers=headers)
+        if response.status_code == 403:
+            response.reason = "Forbidden! It's likely that the API key is invalid, not set or the request limit has been reached."
+
         response.raise_for_status()
         json_response = response.json()
         return pd.DataFrame(json_response["response"]["data"])
@@ -100,10 +105,16 @@ class API:
         df = df.sort_index(ascending=False)
         df[data_identifier] = df[data_identifier].astype(float)
 
+        # Filtering the DataFrame by the specified date range can result in an empty DataFrame
+        if df.empty:
+            return df
+
         for col in df.columns:
             if "name" in col.lower() or "description" in col.lower():
                 df = df.rename(columns={data_identifier: df[col][0]})
                 df = df[df[col][0]].to_frame()
+                break
+
         return df
 
     def get_series_via_route(
