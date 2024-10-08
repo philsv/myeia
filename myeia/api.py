@@ -15,8 +15,7 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(message)s", datefmt="%d-%b-%y %H:%M:%S"
 )
 
-load_dotenv()
-
+load_dotenv(verbose=True)
 
 class API:
     """
@@ -30,7 +29,13 @@ class API:
         self,
         token: Optional[str] = None,
     ):
-        self.token = token if token else os.getenv("EIA_TOKEN")
+        if token:
+            self.token = token
+        elif os.getenv("EIA_TOKEN"):
+            self.token = os.getenv("EIA_TOKEN")
+        else:
+             raise ValueError('EIA_TOKEN is not set. Please set it in your .env file or environment variables.')
+
         self.base_url = "https://api.eia.gov/v2/"
         self.header = {"Accept": "*/*"}
 
