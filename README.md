@@ -41,11 +41,11 @@ eia = API()
 ## Environment Variables
 
 ```bash
-# Create your the .env file in your projects root directory
+# Create a .env file in your projects root directory
 touch .env
 ```
 
-By Default the EIA class will look for your API `EIA_TOKEN`.
+By default the `API` class will look for your `EIA_TOKEN`.
 
 If you have registered for an API key you can set it in your `.env` file.
 
@@ -133,7 +133,7 @@ Output Example:
 
 ```ini
            countryRegionId productId  Crude oil, NGPL, and other liquids
-Date                                                                
+Date                                                            
 2024-03-01             ARE        55                         4132.394334
 2024-02-01             ARE        55                         4132.394334
 2024-01-01             ARE        55                         4142.394334
@@ -165,7 +165,7 @@ Output Example:
 
 ```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)  Natural Gas Futures Contract 2 (Dollars per Million Btu)
-Date                                                                                                                      
+Date                                                                                                                  
 2023-08-29                                              2.556                                                     2.662   
 2023-08-28                                              2.579                                                     2.665   
 2023-08-25                                              2.540                                                     2.657   
@@ -192,7 +192,7 @@ Output Example:
 
 ```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)
-Date                                                            
+Date                                                        
 2021-01-29                                              2.564   
 2021-01-28                                              2.664   
 2021-01-27                                              2.760   
