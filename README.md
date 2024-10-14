@@ -227,3 +227,8 @@ Date
 2021-01-25                                              2.602
 ...                                                       ...
 ```
+
+## Contributing
+We love your input! We want to make contributing to this project as easy and transparent as possible.
+Read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
