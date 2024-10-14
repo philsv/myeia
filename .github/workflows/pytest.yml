@@ -24,8 +24,19 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run tests
+    - name: Run unit tests
+      # Run unit tests against the mocked EIA API.
+      env:
+        EIA_TOKEN: "mock"
+      run: |
+        pytest tests/test_api.py
+
+    - name: Run integration tests
+      # Run integration tests against the EIA API. Not available on pull requests from forks.
       env:
         EIA_TOKEN: ${{ secrets.EIA_TOKEN }}
       run: |
+        # Clear the mock data directory to trigger a real API call
+        python -c "import shutil; shutil.rmtree('./tests/data', ignore_errors=True);"
         pytest tests/test_api.py
+      if: ${{ github.event_name == 'push' || github.event.pull_request.head.repo.fork == false }}
