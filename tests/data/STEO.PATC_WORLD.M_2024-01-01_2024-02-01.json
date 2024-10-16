@@ -1,1 +1,3038 @@
-{"response": {"total": 432, "dateFormat": "YYYY-MM", "frequency": "monthly", "data": [{"period": "2025-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 106.14815702, "unit": "million barrels per day"}, {"period": "2025-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 104.55761162, "unit": "million barrels per day"}, {"period": "2025-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.60139047, "unit": "million barrels per day"}, {"period": "2025-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 105.03700652, "unit": "million barrels per day"}, {"period": "2025-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 104.30610862, "unit": "million barrels per day"}, {"period": "2025-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 104.42375134, "unit": "million barrels per day"}, {"period": "2025-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 105.18938269, "unit": "million barrels per day"}, {"period": "2025-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.77174497, "unit": "million barrels per day"}, {"period": "2025-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.26143596, "unit": "million barrels per day"}, {"period": "2025-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 104.05290651, "unit": "million barrels per day"}, {"period": "2025-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 105.43166131, "unit": "million barrels per day"}, {"period": "2025-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.50658057, "unit": "million barrels per day"}, {"period": "2024-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 105.04882969, "unit": "million barrels per day"}, {"period": "2024-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.65931547, "unit": "million barrels per day"}, {"period": "2024-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.2152555, "unit": "million barrels per day"}, {"period": "2024-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.74603931, "unit": "million barrels per day"}, {"period": "2024-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.85132556, "unit": "million barrels per day"}, {"period": "2024-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.16326534, "unit": "million barrels per day"}, {"period": "2024-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.61781612, "unit": "million barrels per day"}, {"period": "2024-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.42769443, "unit": "million barrels per day"}, {"period": "2024-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.34275623, "unit": "million barrels per day"}, {"period": "2024-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.22726423, "unit": "million barrels per day"}, {"period": "2024-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.34732694, "unit": "million barrels per day"}, {"period": "2024-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.0777345, "unit": "million barrels per day"}, {"period": "2023-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.4179006, "unit": "million barrels per day"}, {"period": "2023-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.68936591, "unit": "million barrels per day"}, {"period": "2023-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.6719546, "unit": "million barrels per day"}, {"period": "2023-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.82147549, "unit": "million barrels per day"}, {"period": "2023-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.69605304, "unit": "million barrels per day"}, {"period": "2023-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.1792665, "unit": "million barrels per day"}, {"period": "2023-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 103.68508119, "unit": "million barrels per day"}, {"period": "2023-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.24013085, "unit": "million barrels per day"}, {"period": "2023-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.43418142, "unit": "million barrels per day"}, {"period": "2023-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.06633352, "unit": "million barrels per day"}, {"period": "2023-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.80952012, "unit": "million barrels per day"}, {"period": "2023-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.096670117, "unit": "million barrels per day"}, {"period": "2022-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.24109911, "unit": "million barrels per day"}, {"period": "2022-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.63067774, "unit": "million barrels per day"}, {"period": "2022-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.038607554, "unit": "million barrels per day"}, {"period": "2022-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.33276215, "unit": "million barrels per day"}, {"period": "2022-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.07833093, "unit": "million barrels per day"}, {"period": "2022-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.48262413, "unit": "million barrels per day"}, {"period": "2022-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.26845486, "unit": "million barrels per day"}, {"period": "2022-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.479398695, "unit": "million barrels per day"}, {"period": "2022-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.232202387, "unit": "million barrels per day"}, {"period": "2022-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.543216562, "unit": "million barrels per day"}, {"period": "2022-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.74666789, "unit": "million barrels per day"}, {"period": "2022-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.529136435, "unit": "million barrels per day"}, {"period": "2021-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.15501063, "unit": "million barrels per day"}, {"period": "2021-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.718075071, "unit": "million barrels per day"}, {"period": "2021-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.574334338, "unit": "million barrels per day"}, {"period": "2021-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.404455191, "unit": "million barrels per day"}, {"period": "2021-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.419782107, "unit": "million barrels per day"}, {"period": "2021-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.688742439, "unit": "million barrels per day"}, {"period": "2021-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.024975106, "unit": "million barrels per day"}, {"period": "2021-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.227905624, "unit": "million barrels per day"}, {"period": "2021-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.909472782, "unit": "million barrels per day"}, {"period": "2021-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.851776519, "unit": "million barrels per day"}, {"period": "2021-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 94.416867673, "unit": "million barrels per day"}, {"period": "2021-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.998752428, "unit": "million barrels per day"}, {"period": "2020-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 94.254360175, "unit": "million barrels per day"}, {"period": "2020-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.377667661, "unit": "million barrels per day"}, {"period": "2020-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.530092293, "unit": "million barrels per day"}, {"period": "2020-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.506984501, "unit": "million barrels per day"}, {"period": "2020-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.017602567, "unit": "million barrels per day"}, {"period": "2020-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.436416763, "unit": "million barrels per day"}, {"period": "2020-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.364768485, "unit": "million barrels per day"}, {"period": "2020-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.685232456, "unit": "million barrels per day"}, {"period": "2020-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.982479319, "unit": "million barrels per day"}, {"period": "2020-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.453648224, "unit": "million barrels per day"}, {"period": "2020-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.543995438, "unit": "million barrels per day"}, {"period": "2020-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 94.274668066, "unit": "million barrels per day"}, {"period": "2019-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.6796218, "unit": "million barrels per day"}, {"period": "2019-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.20076772, "unit": "million barrels per day"}, {"period": "2019-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.43377834, "unit": "million barrels per day"}, {"period": "2019-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.96184425, "unit": "million barrels per day"}, {"period": "2019-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.18192656, "unit": "million barrels per day"}, {"period": "2019-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 102.24983366, "unit": "million barrels per day"}, {"period": "2019-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.19319343, "unit": "million barrels per day"}, {"period": "2019-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.21641139, "unit": "million barrels per day"}, {"period": "2019-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.41016506, "unit": "million barrels per day"}, {"period": "2019-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.473452538, "unit": "million barrels per day"}, {"period": "2019-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.6134207, "unit": "million barrels per day"}, {"period": "2019-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.609281866, "unit": "million barrels per day"}, {"period": "2018-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.20249597, "unit": "million barrels per day"}, {"period": "2018-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.4746232, "unit": "million barrels per day"}, {"period": "2018-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.11649709, "unit": "million barrels per day"}, {"period": "2018-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.16576731, "unit": "million barrels per day"}, {"period": "2018-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.45350242, "unit": "million barrels per day"}, {"period": "2018-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.0935291, "unit": "million barrels per day"}, {"period": "2018-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.67961668, "unit": "million barrels per day"}, {"period": "2018-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.670731496, "unit": "million barrels per day"}, {"period": "2018-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.955734755, "unit": "million barrels per day"}, {"period": "2018-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.943265203, "unit": "million barrels per day"}, {"period": "2018-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.74710553, "unit": "million barrels per day"}, {"period": "2018-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.134839383, "unit": "million barrels per day"}, {"period": "2017-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.828073499, "unit": "million barrels per day"}, {"period": "2017-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.39837154, "unit": "million barrels per day"}, {"period": "2017-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.754912703, "unit": "million barrels per day"}, {"period": "2017-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 100.38542891, "unit": "million barrels per day"}, {"period": "2017-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.4641414, "unit": "million barrels per day"}, {"period": "2017-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.196215631, "unit": "million barrels per day"}, {"period": "2017-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 101.23555905, "unit": "million barrels per day"}, {"period": "2017-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.442465514, "unit": "million barrels per day"}, {"period": "2017-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.96706331, "unit": "million barrels per day"}, {"period": "2017-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.194503355, "unit": "million barrels per day"}, {"period": "2017-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.220309555, "unit": "million barrels per day"}, {"period": "2017-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.493804562, "unit": "million barrels per day"}, {"period": "2016-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.204867928, "unit": "million barrels per day"}, {"period": "2016-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.795274753, "unit": "million barrels per day"}, {"period": "2016-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.774567973, "unit": "million barrels per day"}, {"period": "2016-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.164848397, "unit": "million barrels per day"}, {"period": "2016-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 99.360643497, "unit": "million barrels per day"}, {"period": "2016-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.163540302, "unit": "million barrels per day"}, {"period": "2016-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.8921344, "unit": "million barrels per day"}, {"period": "2016-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.140916951, "unit": "million barrels per day"}, {"period": "2016-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.717865548, "unit": "million barrels per day"}, {"period": "2016-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.152856235, "unit": "million barrels per day"}, {"period": "2016-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.118338074, "unit": "million barrels per day"}, {"period": "2016-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.134993086, "unit": "million barrels per day"}, {"period": "2015-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 98.381387582, "unit": "million barrels per day"}, {"period": "2015-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 94.639931366, "unit": "million barrels per day"}, {"period": "2015-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.197102141, "unit": "million barrels per day"}, {"period": "2015-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.012095483, "unit": "million barrels per day"}, {"period": "2015-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.746934796, "unit": "million barrels per day"}, {"period": "2015-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.297311178, "unit": "million barrels per day"}, {"period": "2015-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 97.280872916, "unit": "million barrels per day"}, {"period": "2015-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.63516715, "unit": "million barrels per day"}, {"period": "2015-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.20494618, "unit": "million barrels per day"}, {"period": "2015-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.430529293, "unit": "million barrels per day"}, {"period": "2015-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.230375696, "unit": "million barrels per day"}, {"period": "2015-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.051955299, "unit": "million barrels per day"}, {"period": "2014-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 96.68613714, "unit": "million barrels per day"}, {"period": "2014-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.637622934, "unit": "million barrels per day"}, {"period": "2014-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.738010849, "unit": "million barrels per day"}, {"period": "2014-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 95.181618749, "unit": "million barrels per day"}, {"period": "2014-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.667489334, "unit": "million barrels per day"}, {"period": "2014-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.818806835, "unit": "million barrels per day"}, {"period": "2014-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.442581893, "unit": "million barrels per day"}, {"period": "2014-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.578361064, "unit": "million barrels per day"}, {"period": "2014-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.33042999, "unit": "million barrels per day"}, {"period": "2014-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.514504347, "unit": "million barrels per day"}, {"period": "2014-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 94.053370336, "unit": "million barrels per day"}, {"period": "2014-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.786489122, "unit": "million barrels per day"}, {"period": "2013-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.500952739, "unit": "million barrels per day"}, {"period": "2013-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.657120822, "unit": "million barrels per day"}, {"period": "2013-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.072222288, "unit": "million barrels per day"}, {"period": "2013-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.109292466, "unit": "million barrels per day"}, {"period": "2013-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.879079893, "unit": "million barrels per day"}, {"period": "2013-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 93.926188698, "unit": "million barrels per day"}, {"period": "2013-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.954369519, "unit": "million barrels per day"}, {"period": "2013-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.487321912, "unit": "million barrels per day"}, {"period": "2013-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.185381385, "unit": "million barrels per day"}, {"period": "2013-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.457503445, "unit": "million barrels per day"}, {"period": "2013-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.768215768, "unit": "million barrels per day"}, {"period": "2013-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.708393383, "unit": "million barrels per day"}, {"period": "2012-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.45751194, "unit": "million barrels per day"}, {"period": "2012-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.490462919, "unit": "million barrels per day"}, {"period": "2012-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.628854786, "unit": "million barrels per day"}, {"period": "2012-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 89.95020394, "unit": "million barrels per day"}, {"period": "2012-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.415429518, "unit": "million barrels per day"}, {"period": "2012-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.518003936, "unit": "million barrels per day"}, {"period": "2012-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.669443544, "unit": "million barrels per day"}, {"period": "2012-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.297780419, "unit": "million barrels per day"}, {"period": "2012-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.174136156, "unit": "million barrels per day"}, {"period": "2012-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 89.82116644, "unit": "million barrels per day"}, {"period": "2012-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.774903115, "unit": "million barrels per day"}, {"period": "2012-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.635587015, "unit": "million barrels per day"}, {"period": "2011-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.816578303, "unit": "million barrels per day"}, {"period": "2011-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 91.1643906, "unit": "million barrels per day"}, {"period": "2011-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 89.201467525, "unit": "million barrels per day"}, {"period": "2011-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.145024085, "unit": "million barrels per day"}, {"period": "2011-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.987772683, "unit": "million barrels per day"}, {"period": "2011-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 89.168072515, "unit": "million barrels per day"}, {"period": "2011-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 89.468912392, "unit": "million barrels per day"}, {"period": "2011-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.524518275, "unit": "million barrels per day"}, {"period": "2011-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.316818089, "unit": "million barrels per day"}, {"period": "2011-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.90789976, "unit": "million barrels per day"}, {"period": "2011-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.323522461, "unit": "million barrels per day"}, {"period": "2011-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.738428841, "unit": "million barrels per day"}, {"period": "2010-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 92.098414064, "unit": "million barrels per day"}, {"period": "2010-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.536463827, "unit": "million barrels per day"}, {"period": "2010-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.264836018, "unit": "million barrels per day"}, {"period": "2010-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.894101129, "unit": "million barrels per day"}, {"period": "2010-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 89.69973668, "unit": "million barrels per day"}, {"period": "2010-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.394754418, "unit": "million barrels per day"}, {"period": "2010-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 90.382720362, "unit": "million barrels per day"}, {"period": "2010-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.108591871, "unit": "million barrels per day"}, {"period": "2010-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.662183469, "unit": "million barrels per day"}, {"period": "2010-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.568126901, "unit": "million barrels per day"}, {"period": "2010-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.891908943, "unit": "million barrels per day"}, {"period": "2010-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.143002757, "unit": "million barrels per day"}, {"period": "2009-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.65310026, "unit": "million barrels per day"}, {"period": "2009-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.547409829, "unit": "million barrels per day"}, {"period": "2009-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.91892474, "unit": "million barrels per day"}, {"period": "2009-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.761620494, "unit": "million barrels per day"}, {"period": "2009-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.777481361, "unit": "million barrels per day"}, {"period": "2009-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.989817336, "unit": "million barrels per day"}, {"period": "2009-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.833159279, "unit": "million barrels per day"}, {"period": "2009-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.042416876, "unit": "million barrels per day"}, {"period": "2009-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.998251152, "unit": "million barrels per day"}, {"period": "2009-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.827887883, "unit": "million barrels per day"}, {"period": "2009-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.613771356, "unit": "million barrels per day"}, {"period": "2009-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.212394797, "unit": "million barrels per day"}, {"period": "2008-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.756508982, "unit": "million barrels per day"}, {"period": "2008-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.092881164, "unit": "million barrels per day"}, {"period": "2008-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.142622139, "unit": "million barrels per day"}, {"period": "2008-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.335304535, "unit": "million barrels per day"}, {"period": "2008-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.040096055, "unit": "million barrels per day"}, {"period": "2008-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.175059737, "unit": "million barrels per day"}, {"period": "2008-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.276647177, "unit": "million barrels per day"}, {"period": "2008-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.0540035, "unit": "million barrels per day"}, {"period": "2008-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.104668161, "unit": "million barrels per day"}, {"period": "2008-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.152106585, "unit": "million barrels per day"}, {"period": "2008-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.330383506, "unit": "million barrels per day"}, {"period": "2008-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.72760845, "unit": "million barrels per day"}, {"period": "2007-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 89.026661684, "unit": "million barrels per day"}, {"period": "2007-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.529910891, "unit": "million barrels per day"}, {"period": "2007-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.423718615, "unit": "million barrels per day"}, {"period": "2007-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.154034603, "unit": "million barrels per day"}, {"period": "2007-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.161630442, "unit": "million barrels per day"}, {"period": "2007-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.501540752, "unit": "million barrels per day"}, {"period": "2007-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.480250576, "unit": "million barrels per day"}, {"period": "2007-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.213914365, "unit": "million barrels per day"}, {"period": "2007-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.528965145, "unit": "million barrels per day"}, {"period": "2007-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.631830817, "unit": "million barrels per day"}, {"period": "2007-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 88.197094074, "unit": "million barrels per day"}, {"period": "2007-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.498881997, "unit": "million barrels per day"}, {"period": "2006-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.434631885, "unit": "million barrels per day"}, {"period": "2006-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.049641568, "unit": "million barrels per day"}, {"period": "2006-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.354849166, "unit": "million barrels per day"}, {"period": "2006-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.997327274, "unit": "million barrels per day"}, {"period": "2006-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.632682238, "unit": "million barrels per day"}, {"period": "2006-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.699212713, "unit": "million barrels per day"}, {"period": "2006-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.858965679, "unit": "million barrels per day"}, {"period": "2006-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.142086696, "unit": "million barrels per day"}, {"period": "2006-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.26779124, "unit": "million barrels per day"}, {"period": "2006-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.775650378, "unit": "million barrels per day"}, {"period": "2006-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.510537543, "unit": "million barrels per day"}, {"period": "2006-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.690154093, "unit": "million barrels per day"}, {"period": "2005-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 87.065774379, "unit": "million barrels per day"}, {"period": "2005-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.992652235, "unit": "million barrels per day"}, {"period": "2005-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 82.186953608, "unit": "million barrels per day"}, {"period": "2005-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.227855117, "unit": "million barrels per day"}, {"period": "2005-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.587241072, "unit": "million barrels per day"}, {"period": "2005-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.679949146, "unit": "million barrels per day"}, {"period": "2005-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 85.717741418, "unit": "million barrels per day"}, {"period": "2005-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 82.341580556, "unit": "million barrels per day"}, {"period": "2005-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.14969355, "unit": "million barrels per day"}, {"period": "2005-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.101852958, "unit": "million barrels per day"}, {"period": "2005-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.576114314, "unit": "million barrels per day"}, {"period": "2005-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.417091901, "unit": "million barrels per day"}, {"period": "2004-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 86.628380594, "unit": "million barrels per day"}, {"period": "2004-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.94461131, "unit": "million barrels per day"}, {"period": "2004-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.677186603, "unit": "million barrels per day"}, {"period": "2004-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.547328601, "unit": "million barrels per day"}, {"period": "2004-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.276136633, "unit": "million barrels per day"}, {"period": "2004-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.117852074, "unit": "million barrels per day"}, {"period": "2004-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.499225639, "unit": "million barrels per day"}, {"period": "2004-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 80.363076754, "unit": "million barrels per day"}, {"period": "2004-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 82.58807684, "unit": "million barrels per day"}, {"period": "2004-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 84.027434192, "unit": "million barrels per day"}, {"period": "2004-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.676126478, "unit": "million barrels per day"}, {"period": "2004-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 82.024443404, "unit": "million barrels per day"}, {"period": "2003-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 83.642508042, "unit": "million barrels per day"}, {"period": "2003-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 80.673371745, "unit": "million barrels per day"}, {"period": "2003-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 81.61150309, "unit": "million barrels per day"}, {"period": "2003-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 80.446303988, "unit": "million barrels per day"}, {"period": "2003-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.392646608, "unit": "million barrels per day"}, {"period": "2003-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.944428049, "unit": "million barrels per day"}, {"period": "2003-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.946863371, "unit": "million barrels per day"}, {"period": "2003-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.941391642, "unit": "million barrels per day"}, {"period": "2003-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.3267475, "unit": "million barrels per day"}, {"period": "2003-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.63874064, "unit": "million barrels per day"}, {"period": "2003-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 82.542420417, "unit": "million barrels per day"}, {"period": "2003-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 80.368236674, "unit": "million barrels per day"}, {"period": "2002-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 81.002498742, "unit": "million barrels per day"}, {"period": "2002-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 80.279846477, "unit": "million barrels per day"}, {"period": "2002-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.606325969, "unit": "million barrels per day"}, {"period": "2002-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.052455813, "unit": "million barrels per day"}, {"period": "2002-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.335738993, "unit": "million barrels per day"}, {"period": "2002-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.769447611, "unit": "million barrels per day"}, {"period": "2002-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.492654918, "unit": "million barrels per day"}, {"period": "2002-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.624541467, "unit": "million barrels per day"}, {"period": "2002-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.546295828, "unit": "million barrels per day"}, {"period": "2002-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.307896417, "unit": "million barrels per day"}, {"period": "2002-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.119818575, "unit": "million barrels per day"}, {"period": "2002-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.594656502, "unit": "million barrels per day"}, {"period": "2001-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.442239854, "unit": "million barrels per day"}, {"period": "2001-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.66040223, "unit": "million barrels per day"}, {"period": "2001-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.877268686, "unit": "million barrels per day"}, {"period": "2001-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.658782103, "unit": "million barrels per day"}, {"period": "2001-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.003090919, "unit": "million barrels per day"}, {"period": "2001-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.05134708, "unit": "million barrels per day"}, {"period": "2001-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.915287609, "unit": "million barrels per day"}, {"period": "2001-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.716571642, "unit": "million barrels per day"}, {"period": "2001-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.562983912, "unit": "million barrels per day"}, {"period": "2001-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.592918415, "unit": "million barrels per day"}, {"period": "2001-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.834339124, "unit": "million barrels per day"}, {"period": "2001-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.878343541, "unit": "million barrels per day"}, {"period": "2000-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.288168265, "unit": "million barrels per day"}, {"period": "2000-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.717654696, "unit": "million barrels per day"}, {"period": "2000-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.960391079, "unit": "million barrels per day"}, {"period": "2000-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.777438857, "unit": "million barrels per day"}, {"period": "2000-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 78.533454984, "unit": "million barrels per day"}, {"period": "2000-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 75.788048681, "unit": "million barrels per day"}, {"period": "2000-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.226815151, "unit": "million barrels per day"}, {"period": "2000-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 75.555656648, "unit": "million barrels per day"}, {"period": "2000-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.41863116, "unit": "million barrels per day"}, {"period": "2000-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.886629927, "unit": "million barrels per day"}, {"period": "2000-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.000020223, "unit": "million barrels per day"}, {"period": "2000-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 75.512894445, "unit": "million barrels per day"}, {"period": "1999-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 79.534476861, "unit": "million barrels per day"}, {"period": "1999-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.738741668, "unit": "million barrels per day"}, {"period": "1999-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 75.530807038, "unit": "million barrels per day"}, {"period": "1999-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 75.169042704, "unit": "million barrels per day"}, {"period": "1999-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.564679493, "unit": "million barrels per day"}, {"period": "1999-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.453700775, "unit": "million barrels per day"}, {"period": "1999-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.90087124, "unit": "million barrels per day"}, {"period": "1999-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 72.042710467, "unit": "million barrels per day"}, {"period": "1999-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.038298271, "unit": "million barrels per day"}, {"period": "1999-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.615890844, "unit": "million barrels per day"}, {"period": "1999-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.253762529, "unit": "million barrels per day"}, {"period": "1999-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.5247807, "unit": "million barrels per day"}, {"period": "1998-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 77.446489368, "unit": "million barrels per day"}, {"period": "1998-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 75.409654392, "unit": "million barrels per day"}, {"period": "1998-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.58596304, "unit": "million barrels per day"}, {"period": "1998-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.423783278, "unit": "million barrels per day"}, {"period": "1998-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.006055853, "unit": "million barrels per day"}, {"period": "1998-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.983318586, "unit": "million barrels per day"}, {"period": "1998-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.475926107, "unit": "million barrels per day"}, {"period": "1998-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 70.785331977, "unit": "million barrels per day"}, {"period": "1998-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 72.800589331, "unit": "million barrels per day"}, {"period": "1998-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.347497095, "unit": "million barrels per day"}, {"period": "1998-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.546259687, "unit": "million barrels per day"}, {"period": "1998-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.11953251, "unit": "million barrels per day"}, {"period": "1997-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 76.262952851, "unit": "million barrels per day"}, {"period": "1997-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.811780679, "unit": "million barrels per day"}, {"period": "1997-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.513743289, "unit": "million barrels per day"}, {"period": "1997-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.084586012, "unit": "million barrels per day"}, {"period": "1997-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 71.548380275, "unit": "million barrels per day"}, {"period": "1997-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.154097904, "unit": "million barrels per day"}, {"period": "1997-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 71.91974147, "unit": "million barrels per day"}, {"period": "1997-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 70.678968958, "unit": "million barrels per day"}, {"period": "1997-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 72.578450916, "unit": "million barrels per day"}, {"period": "1997-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 71.659273864, "unit": "million barrels per day"}, {"period": "1997-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.973351374, "unit": "million barrels per day"}, {"period": "1997-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.915136436, "unit": "million barrels per day"}, {"period": "1996-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.875302499, "unit": "million barrels per day"}, {"period": "1996-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.272227076, "unit": "million barrels per day"}, {"period": "1996-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.407206788, "unit": "million barrels per day"}, {"period": "1996-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 70.818373014, "unit": "million barrels per day"}, {"period": "1996-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 71.131929142, "unit": "million barrels per day"}, {"period": "1996-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 70.957744803, "unit": "million barrels per day"}, {"period": "1996-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.472964183, "unit": "million barrels per day"}, {"period": "1996-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.400051837, "unit": "million barrels per day"}, {"period": "1996-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 70.310497278, "unit": "million barrels per day"}, {"period": "1996-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 72.784750505, "unit": "million barrels per day"}, {"period": "1996-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 74.564815097, "unit": "million barrels per day"}, {"period": "1996-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 72.519456819, "unit": "million barrels per day"}, {"period": "1995-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 73.153461249, "unit": "million barrels per day"}, {"period": "1995-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 72.245939311, "unit": "million barrels per day"}, {"period": "1995-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.464643916, "unit": "million barrels per day"}, {"period": "1995-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.467266772, "unit": "million barrels per day"}, {"period": "1995-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.250170227, "unit": "million barrels per day"}, {"period": "1995-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.353948409, "unit": "million barrels per day"}, {"period": "1995-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.619147231, "unit": "million barrels per day"}, {"period": "1995-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.556522911, "unit": "million barrels per day"}, {"period": "1995-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.218583092, "unit": "million barrels per day"}, {"period": "1995-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 71.014088111, "unit": "million barrels per day"}, {"period": "1995-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 72.04263634, "unit": "million barrels per day"}, {"period": "1995-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.465883147, "unit": "million barrels per day"}, {"period": "1994-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 71.847020618, "unit": "million barrels per day"}, {"period": "1994-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.911748653, "unit": "million barrels per day"}, {"period": "1994-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.676300664, "unit": "million barrels per day"}, {"period": "1994-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.207159914, "unit": "million barrels per day"}, {"period": "1994-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.161201912, "unit": "million barrels per day"}, {"period": "1994-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.934580515, "unit": "million barrels per day"}, {"period": "1994-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.42093937, "unit": "million barrels per day"}, {"period": "1994-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.403014149, "unit": "million barrels per day"}, {"period": "1994-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.005816345, "unit": "million barrels per day"}, {"period": "1994-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.972857934, "unit": "million barrels per day"}, {"period": "1994-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 70.534796848, "unit": "million barrels per day"}, {"period": "1994-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.793085822, "unit": "million barrels per day"}, {"period": "1993-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 71.035620733, "unit": "million barrels per day"}, {"period": "1993-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.498071075, "unit": "million barrels per day"}, {"period": "1993-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.893510026, "unit": "million barrels per day"}, {"period": "1993-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.919762626, "unit": "million barrels per day"}, {"period": "1993-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.351240814, "unit": "million barrels per day"}, {"period": "1993-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.970211804, "unit": "million barrels per day"}, {"period": "1993-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.047944751, "unit": "million barrels per day"}, {"period": "1993-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 63.453016274, "unit": "million barrels per day"}, {"period": "1993-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.869945592, "unit": "million barrels per day"}, {"period": "1993-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.947164575, "unit": "million barrels per day"}, {"period": "1993-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.727420924, "unit": "million barrels per day"}, {"period": "1993-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.449207876, "unit": "million barrels per day"}, {"period": "1992-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 70.283906909, "unit": "million barrels per day"}, {"period": "1992-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.401700688, "unit": "million barrels per day"}, {"period": "1992-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.684763155, "unit": "million barrels per day"}, {"period": "1992-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.932343818, "unit": "million barrels per day"}, {"period": "1992-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.329706153, "unit": "million barrels per day"}, {"period": "1992-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.620662878, "unit": "million barrels per day"}, {"period": "1992-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.838516129, "unit": "million barrels per day"}, {"period": "1992-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 64.193578809, "unit": "million barrels per day"}, {"period": "1992-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.467694807, "unit": "million barrels per day"}, {"period": "1992-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.600379053, "unit": "million barrels per day"}, {"period": "1992-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.484401932, "unit": "million barrels per day"}, {"period": "1992-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.504592023, "unit": "million barrels per day"}, {"period": "1991-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 69.639770834, "unit": "million barrels per day"}, {"period": "1991-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.242255627, "unit": "million barrels per day"}, {"period": "1991-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.216546459, "unit": "million barrels per day"}, {"period": "1991-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.170683767, "unit": "million barrels per day"}, {"period": "1991-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.606125336, "unit": "million barrels per day"}, {"period": "1991-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.386278858, "unit": "million barrels per day"}, {"period": "1991-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.80988294, "unit": "million barrels per day"}, {"period": "1991-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.333666497, "unit": "million barrels per day"}, {"period": "1991-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.516026884, "unit": "million barrels per day"}, {"period": "1991-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.333369077, "unit": "million barrels per day"}, {"period": "1991-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.351188708, "unit": "million barrels per day"}, {"period": "1991-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.635160352, "unit": "million barrels per day"}, {"period": "1990-12", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.332917739, "unit": "million barrels per day"}, {"period": "1990-11", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.704979194, "unit": "million barrels per day"}, {"period": "1990-10", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.137039723, "unit": "million barrels per day"}, {"period": "1990-09", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.498618804, "unit": "million barrels per day"}, {"period": "1990-08", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.182168449, "unit": "million barrels per day"}, {"period": "1990-07", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 66.579691235, "unit": "million barrels per day"}, {"period": "1990-06", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.928933694, "unit": "million barrels per day"}, {"period": "1990-05", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.389558242, "unit": "million barrels per day"}, {"period": "1990-04", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 65.374716718, "unit": "million barrels per day"}, {"period": "1990-03", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.275743827, "unit": "million barrels per day"}, {"period": "1990-02", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 68.158305266, "unit": "million barrels per day"}, {"period": "1990-01", "seriesId": "PATC_WORLD", "seriesDescription": "Liquid Fuels Consumption, Total World", "value": 67.463756202, "unit": "million barrels per day"}], "description": "Monthly short term (18 month) projections using STEO model.  \r\n        Report and interactive projection data browser:  STEO (www.eia.gov/steo/)", "id": "steo"}, "request": {}, "apiVersion": "2.1.7", "ExcelAddInVersion": "2.1.0"}
+{
+    "response": {
+        "total": 432,
+        "dateFormat": "YYYY-MM",
+        "frequency": "monthly",
+        "data": [
+            {
+                "period": "2025-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 106.14815702,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 104.55761162,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.60139047,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 105.03700652,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 104.30610862,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 104.42375134,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 105.18938269,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.77174497,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.26143596,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 104.05290651,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 105.43166131,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2025-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.50658057,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 105.04882969,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.65931547,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.2152555,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.74603931,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.85132556,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.16326534,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.61781612,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.42769443,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.34275623,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.22726423,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.34732694,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2024-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.0777345,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.4179006,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.68936591,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.6719546,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.82147549,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.69605304,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.1792665,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 103.68508119,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.24013085,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.43418142,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.06633352,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.80952012,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2023-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.096670117,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.24109911,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.63067774,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.038607554,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.33276215,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.07833093,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.48262413,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.26845486,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.479398695,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.232202387,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.543216562,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.74666789,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2022-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.529136435,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.15501063,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.718075071,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.574334338,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.404455191,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.419782107,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.688742439,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.024975106,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.227905624,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.909472782,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.851776519,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 94.416867673,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2021-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.998752428,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 94.254360175,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.377667661,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.530092293,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.506984501,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.017602567,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.436416763,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.364768485,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.685232456,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.982479319,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.453648224,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.543995438,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2020-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 94.274668066,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.6796218,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.20076772,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.43377834,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.96184425,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.18192656,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 102.24983366,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.19319343,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.21641139,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.41016506,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.473452538,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.6134207,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2019-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.609281866,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.20249597,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.4746232,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.11649709,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.16576731,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.45350242,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.0935291,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.67961668,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.670731496,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.955734755,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.943265203,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.74710553,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2018-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.134839383,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.828073499,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.39837154,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.754912703,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 100.38542891,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.4641414,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.196215631,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 101.23555905,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.442465514,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.96706331,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.194503355,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.220309555,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2017-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.493804562,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.204867928,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.795274753,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.774567973,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.164848397,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 99.360643497,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.163540302,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.8921344,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.140916951,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.717865548,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.152856235,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.118338074,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2016-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.134993086,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 98.381387582,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 94.639931366,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.197102141,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.012095483,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.746934796,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.297311178,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 97.280872916,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.63516715,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.20494618,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.430529293,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.230375696,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2015-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.051955299,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 96.68613714,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.637622934,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.738010849,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 95.181618749,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.667489334,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.818806835,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.442581893,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.578361064,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.33042999,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.514504347,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 94.053370336,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2014-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.786489122,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.500952739,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.657120822,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.072222288,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.109292466,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.879079893,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 93.926188698,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.954369519,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.487321912,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.185381385,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.457503445,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.768215768,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2013-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.708393383,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.45751194,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.490462919,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.628854786,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 89.95020394,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.415429518,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.518003936,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.669443544,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.297780419,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.174136156,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 89.82116644,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.774903115,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2012-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.635587015,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.816578303,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 91.1643906,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 89.201467525,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.145024085,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.987772683,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 89.168072515,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 89.468912392,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.524518275,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.316818089,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.90789976,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.323522461,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2011-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.738428841,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 92.098414064,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.536463827,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.264836018,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.894101129,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 89.69973668,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.394754418,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 90.382720362,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.108591871,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.662183469,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.568126901,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.891908943,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2010-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.143002757,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.65310026,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.547409829,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.91892474,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.761620494,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.777481361,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.989817336,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.833159279,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.042416876,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.998251152,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.827887883,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.613771356,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2009-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.212394797,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.756508982,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.092881164,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.142622139,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.335304535,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.040096055,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.175059737,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.276647177,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.0540035,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.104668161,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.152106585,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.330383506,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2008-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.72760845,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 89.026661684,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.529910891,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.423718615,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.154034603,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.161630442,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.501540752,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.480250576,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.213914365,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.528965145,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.631830817,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 88.197094074,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2007-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.498881997,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.434631885,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.049641568,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.354849166,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.997327274,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.632682238,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.699212713,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.858965679,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.142086696,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.26779124,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.775650378,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.510537543,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2006-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.690154093,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 87.065774379,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.992652235,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 82.186953608,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.227855117,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.587241072,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.679949146,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 85.717741418,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 82.341580556,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.14969355,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.101852958,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.576114314,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2005-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.417091901,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 86.628380594,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.94461131,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.677186603,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.547328601,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.276136633,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.117852074,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.499225639,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 80.363076754,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 82.58807684,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 84.027434192,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.676126478,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2004-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 82.024443404,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 83.642508042,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 80.673371745,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 81.61150309,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 80.446303988,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.392646608,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.944428049,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.946863371,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.941391642,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.3267475,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.63874064,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 82.542420417,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2003-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 80.368236674,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 81.002498742,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 80.279846477,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.606325969,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.052455813,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.335738993,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.769447611,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.492654918,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.624541467,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.546295828,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.307896417,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.119818575,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2002-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.594656502,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.442239854,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.66040223,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.877268686,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.658782103,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.003090919,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.05134708,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.915287609,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.716571642,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.562983912,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.592918415,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.834339124,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2001-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.878343541,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.288168265,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.717654696,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.960391079,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.777438857,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 78.533454984,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 75.788048681,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.226815151,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 75.555656648,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.41863116,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.886629927,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.000020223,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "2000-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 75.512894445,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 79.534476861,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.738741668,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 75.530807038,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 75.169042704,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.564679493,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.453700775,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.90087124,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 72.042710467,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.038298271,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.615890844,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.253762529,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1999-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.5247807,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 77.446489368,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 75.409654392,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.58596304,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.423783278,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.006055853,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.983318586,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.475926107,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 70.785331977,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 72.800589331,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.347497095,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.546259687,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1998-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.11953251,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 76.262952851,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.811780679,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.513743289,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.084586012,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 71.548380275,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.154097904,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 71.91974147,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 70.678968958,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 72.578450916,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 71.659273864,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.973351374,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1997-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.915136436,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.875302499,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.272227076,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.407206788,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 70.818373014,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 71.131929142,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 70.957744803,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.472964183,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.400051837,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 70.310497278,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 72.784750505,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 74.564815097,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1996-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 72.519456819,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 73.153461249,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 72.245939311,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.464643916,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.467266772,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.250170227,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.353948409,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.619147231,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.556522911,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.218583092,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 71.014088111,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 72.04263634,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1995-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.465883147,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 71.847020618,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.911748653,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.676300664,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.207159914,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.161201912,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.934580515,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.42093937,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.403014149,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.005816345,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.972857934,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 70.534796848,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1994-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.793085822,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 71.035620733,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.498071075,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.893510026,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.919762626,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.351240814,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.970211804,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.047944751,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 63.453016274,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.869945592,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.947164575,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.727420924,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1993-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.449207876,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 70.283906909,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.401700688,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.684763155,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.932343818,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.329706153,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.620662878,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.838516129,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 64.193578809,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.467694807,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.600379053,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.484401932,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1992-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.504592023,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 69.639770834,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.242255627,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.216546459,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.170683767,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.606125336,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.386278858,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.80988294,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.333666497,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.516026884,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.333369077,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.351188708,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1991-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.635160352,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-12",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.332917739,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-11",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.704979194,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-10",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.137039723,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-09",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.498618804,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-08",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.182168449,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-07",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 66.579691235,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-06",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.928933694,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-05",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.389558242,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-04",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 65.374716718,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-03",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.275743827,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-02",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 68.158305266,
+                "unit": "million barrels per day"
+            },
+            {
+                "period": "1990-01",
+                "seriesId": "PATC_WORLD",
+                "seriesDescription": "Liquid Fuels Consumption, Total World",
+                "value": 67.463756202,
+                "unit": "million barrels per day"
+            }
+        ],
+        "description": "Monthly short term (18 month) projections using STEO model.  \r\n        Report and interactive projection data browser:  STEO (www.eia.gov/steo/)",
+        "id": "steo"
+    },
+    "request": {},
+    "apiVersion": "2.1.7",
+    "ExcelAddInVersion": "2.1.0"
+}
