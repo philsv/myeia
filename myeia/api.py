@@ -17,6 +17,7 @@ logging.basicConfig(
 
 load_dotenv(verbose=True)
 
+
 class API:
     """
     Python Wrapper for U.S. Energy Information Administration (EIA) APIv2.
@@ -32,9 +33,11 @@ class API:
         if token:
             self.token = token
         elif os.getenv("EIA_TOKEN"):
-            self.token = os.getenv("EIA_TOKEN")
+            self.token = str(os.getenv("EIA_TOKEN"))
         else:
-             raise ValueError('EIA_TOKEN is not set. Please set it in your .env file or environment variables.')
+            raise ValueError(
+                "EIA_TOKEN is not set. Please set it in your .env file or environment variables."
+            )
 
         self.base_url = "https://api.eia.gov/v2/"
         self.header = {"Accept": "*/*"}

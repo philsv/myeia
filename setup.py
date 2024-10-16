@@ -1,4 +1,4 @@
-import setuptools
+import setuptools  # type: ignore
 
 from myeia.version import __version__
 
