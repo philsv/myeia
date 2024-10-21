@@ -98,6 +98,16 @@ def test_get_series_via_route(route, series, frequency, facet, mocker):
     file_path = get_mock_data_path(
         f"{route.replace('/', '-')}_{series}_{frequency}_{facet}.json"
     )
+
+    file_path = (
+        file_path.replace("[", "")
+        .replace("]", "")
+        .replace("'", "")
+        .replace(" ", "")
+        .replace(",", "_")
+        .strip()
+    )
+
     spy_get = mock_requests_get(mocker, file_path)
 
     df = eia.get_series_via_route(route, series, frequency, facet)
