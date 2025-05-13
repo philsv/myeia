@@ -1,6 +1,6 @@
 # myeia
 
-[![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&r=r&ts=1683906897&type=6e&v=0.4.6&x2=0)](https://badge.fury.io/py/myeia)
+[![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&r=r&ts=1683906897&type=6e&v=0.4.7&x2=0)](https://badge.fury.io/py/myeia)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/philsv/myeia/blob/main/LICENSE)
 [![Weekly Downloads](https://static.pepy.tech/personalized-badge/myeia?period=week&units=international_system&left_color=grey&right_color=blue&left_text=downloads/week)](https://pepy.tech/project/myeia)
 [![Monthly Downloads](https://static.pepy.tech/personalized-badge/myeia?period=month&units=international_system&left_color=grey&right_color=blue&left_text=downloads/month)](https://pepy.tech/project/myeia)
@@ -16,11 +16,11 @@ pip install myeia
 
 ## Requirements
 
-* backoff
-* pandas
-* python-dateutil
-* python-dotenv
-* requests
+- backoff
+- pandas
+- python-dateutil
+- python-dotenv
+- requests
 
 ## eia OPEN DATA Registration
 
@@ -55,7 +55,7 @@ EIA_TOKEN=YOUR_TOKEN_HERE
 
 ## Get Series
 
-Lets look at an example of how to get the *EIA Natural Gas Futures*.
+Lets look at an example of how to get the _EIA Natural Gas Futures_.
 You can use the simpler v1 API method where you only need to pass the `series_id` or you can use the newer v2 API method where you need to pass the `route`, `series`, and `frequency`.
 
 ```python
@@ -85,7 +85,7 @@ Date
 
 ## Different Facets
 
-Lets look at another example the *Total OPEC Petroleum Supply* where the facet is available as `seriesId`. By Default it is set as `series` but we can define the facet as `seriesId`.
+Lets look at another example the _Total OPEC Petroleum Supply_ where the facet is available as `seriesId`. By Default it is set as `series` but we can define the facet as `seriesId`.
 
 ```python
 df = eia.get_series(series_id="STEO.PAPR_OPEC.M")
@@ -100,7 +100,7 @@ df = eia.get_series_via_route(
 df.head()
 ```
 
- Output Example:
+Output Example:
 
 ```ini
             Total OPEC Petroleum Supply
@@ -115,7 +115,7 @@ Date
 
 ## Filter by multiple facets
 
-You can also filter by multiple facets. Lets look at the *UAE Crude oil, NGPL, and other liquids* where the facets we choose are `countryRegionId` and `productId`.
+You can also filter by multiple facets. Lets look at the _UAE Crude oil, NGPL, and other liquids_ where the facets we choose are `countryRegionId` and `productId`.
 The difference here is that both facet columns are present in the dataframe, unlike the previous examples where only one facet was present.
 
 ```python
@@ -133,7 +133,7 @@ Output Example:
 
 ```ini
            countryRegionId productId  Crude oil, NGPL, and other liquids
-Date                                                            
+Date
 2024-03-01             ARE        55                         4132.394334
 2024-02-01             ARE        55                         4132.394334
 2024-01-01             ARE        55                         4142.394334
@@ -165,12 +165,12 @@ Output Example:
 
 ```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)  Natural Gas Futures Contract 2 (Dollars per Million Btu)
-Date                                                                                                                  
-2023-08-29                                              2.556                                                     2.662   
-2023-08-28                                              2.579                                                     2.665   
-2023-08-25                                              2.540                                                     2.657   
-2023-08-24                                              2.519                                                     2.636   
-2023-08-23                                              2.497                                                     2.592   
+Date
+2023-08-29                                              2.556                                                     2.662
+2023-08-28                                              2.579                                                     2.665
+2023-08-25                                              2.540                                                     2.657
+2023-08-24                                              2.519                                                     2.636
+2023-08-23                                              2.497                                                     2.592
 ...                                                       ...                                                       ...
 ```
 
@@ -192,13 +192,13 @@ Output Example:
 
 ```ini
             Natural Gas Futures Contract 1 (Dollars per Million Btu)
-Date                                                        
-2021-01-29                                              2.564   
-2021-01-28                                              2.664   
-2021-01-27                                              2.760   
-2021-01-26                                              2.656   
-2021-01-25                                              2.602   
-...                                                       ...   
+Date
+2021-01-29                                              2.564
+2021-01-28                                              2.664
+2021-01-27                                              2.760
+2021-01-26                                              2.656
+2021-01-25                                              2.602
+...                                                       ...
 ```
 
 This also works for the `get_series_via_route` method.
@@ -229,6 +229,6 @@ Date
 ```
 
 ## Contributing
+
 We love your input! We want to make contributing to this project as easy and transparent as possible.
 Read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-
