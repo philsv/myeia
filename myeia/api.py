@@ -125,7 +125,7 @@ class API:
 
         for col in df.columns:
             if col in descriptions:
-                df = df.rename(columns={data_identifier: df[col][0]})
+                df = df.rename(columns={data_identifier: df[col].iloc[0]})
                 df = df[df[col].iloc[0]].to_frame()
                 break
         return df
@@ -206,14 +206,14 @@ class API:
         if isinstance(facet, str) and isinstance(series, str):
             for col in df.columns:
                 if col in descriptions:
-                    df = df.rename(columns={data_identifier: df[col][0]})
+                    df = df.rename(columns={data_identifier: df[col].iloc[0]})
                     df = df[df[col].iloc[0]].to_frame()
                     break
         elif isinstance(facet, list) and isinstance(series, list):
             for col in df.columns:
                 if col in descriptions:
-                    df = df.rename(columns={data_identifier: df[col][0]})
-                    facet.append(df[col][0])
+                    df = df.rename(columns={data_identifier: df[col].iloc[0]})
+                    facet.append(df[col].iloc[0])
                     df = df[facet]
                     break
         return df
